@@ -1,0 +1,423 @@
+Task ID,Occupation (O*NET-SOC Title),Task,User ID,Date,Automation Capacity Rating,Physical Action Requirement,Involved Uncertainty,Domain Expertise Requirement,Interpersonal Communication Requirement,Human Agency Scale Rating
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",OrangeWolf,24/03/2025,1,1,3,3,4,4
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,OrangeWolf,24/03/2025,3,1,1,1,1,2
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",PurpleBear,24/03/2025,4,1,4,4,2,3
+16246,Biostatisticians,Calculate sample size requirements for clinical studies.,PurpleBear,24/03/2025,4,1,3,4,1,1
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,PurpleBear,24/03/2025,4,1,3,4,2,4
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,PurpleBear,24/03/2025,4,1,3,4,2,4
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",PurpleBear,24/03/2025,3,1,3,3,4,4
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,PurpleBear,24/03/2025,2,1,3,3,4,4
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",PurpleBear,24/03/2025,2,1,2,3,3,4
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",PurpleBear,24/03/2025,3,1,3,3,2,3
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",PurpleBear,24/03/2025,3,1,3,3,4,3
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",PurpleBear,24/03/2025,3,2,4,3,2,2
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",PurpleBear,24/03/2025,3,1,4,4,2,4
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,PurpleBear,24/03/2025,2,2,3,2,4,2
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",PurpleBear,24/03/2025,3,1,4,4,2,4
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,PurpleBear,24/03/2025,3,1,4,4,2,4
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,PurpleBear,24/03/2025,2,1,3,3,4,4
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",PurpleBear,24/03/2025,2,2,3,3,2,2
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,YellowZebra,05/04/2025,3,1,2,4,2,2
+21049,Computer Programmers,Develop Web sites.,YellowZebra,05/04/2025,4,1,2,3,2,2
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,YellowZebra,05/04/2025,2,1,3,4,4,4
+5317,Information Security Analysts,"Modify computer security files to incorporate new software, correct errors, or change individual access status.",YellowZebra,05/04/2025,4,1,3,4,1,2
+1305,Database Administrators,Specify users and user access levels for each segment of database.,YellowZebra,05/04/2025,4,1,2,3,2,2
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,YellowZebra,05/04/2025,4,1,2,2,1,2
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",YellowZebra,05/04/2025,4,1,2,2,1,2
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,YellowZebra,05/04/2025,2,1,1,4,1,4
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",YellowZebra,05/04/2025,3,1,1,3,2,3
+19004,Computer Network Support Specialists,Back up network data.,GreenElephant,06/04/2025,4,2,2,2,2,2
+14743,Web Administrators,"Install or configure Web server software or hardware to ensure that directory structure is well-defined, logical, and secure, and that files are named properly.",YellowZebra,05/04/2025,5,1,1,1,1,1
+1282,Computer User Support Specialists,Answer user inquiries regarding computer software or hardware operation to resolve problems.,YellowZebra,05/04/2025,5,1,1,3,2,1
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",YellowZebra,05/04/2025,4,1,1,4,1,2
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",YellowZebra,05/04/2025,5,1,1,4,1,1
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,YellowZebra,05/04/2025,5,1,1,2,1,1
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",YellowZebra,05/04/2025,4,1,1,3,1,2
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,YellowZebra,05/04/2025,2,1,2,4,2,3
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",YellowZebra,05/04/2025,3,1,1,3,1,2
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,YellowZebra,05/04/2025,3,1,2,3,1,2
+14695,Web Developers,Perform or direct Web site updates.,YellowZebra,05/04/2025,4,1,2,3,2,2
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",YellowZebra,05/04/2025,2,1,1,4,3,4
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",YellowZebra,05/04/2025,5,1,1,2,1,1
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",YellowZebra,05/04/2025,2,1,1,4,3,5
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",YellowZebra,05/04/2025,2,1,2,4,3,5
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,YellowZebra,05/04/2025,4,1,1,3,2,2
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,YellowZebra,05/04/2025,4,1,1,3,2,2
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,GreenElephant,05/04/2025,2,3,4,4,4,4
+21049,Computer Programmers,Develop Web sites.,GreenElephant,05/04/2025,4,2,3,3,3,3
+16151,Information Technology Project Managers,Perform risk assessments to develop response strategies.,GreenElephant,05/04/2025,2,3,4,4,4,4
+5317,Information Security Analysts,"Modify computer security files to incorporate new software, correct errors, or change individual access status.",GreenElephant,05/04/2025,3,3,4,4,3,4
+1305,Database Administrators,Specify users and user access levels for each segment of database.,GreenElephant,05/04/2025,4,2,2,3,2,3
+14654,Software Quality Assurance Analysts and Testers,Monitor program performance to ensure efficient and problem-free operations.,GreenElephant,05/04/2025,3,3,3,3,3,4
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",GreenElephant,05/04/2025,2,3,4,4,4,4
+7371,Mathematicians,Develop mathematical or statistical models of phenomena to be used for analysis or for computational simulation.,GreenElephant,05/04/2025,3,2,2,3,2,4
+16208,Video Game Designers,"Devise missions, challenges, or puzzles to be encountered in game play.",GreenElephant,05/04/2025,3,4,3,4,2,4
+14743,Web Administrators,"Install or configure Web server software or hardware to ensure that directory structure is well-defined, logical, and secure, and that files are named properly.",GreenElephant,05/04/2025,4,2,2,3,2,3
+1282,Computer User Support Specialists,Answer user inquiries regarding computer software or hardware operation to resolve problems.,GreenElephant,05/04/2025,4,2,2,3,3,2
+1322,Network and Computer Systems Administrators,"Design, configure, and test computer hardware, networking software and operating system software.",GreenElephant,05/04/2025,3,2,3,4,2,4
+1270,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",GreenElephant,05/04/2025,4,2,3,3,2,3
+1320,Network and Computer Systems Administrators,Operate master consoles to monitor the performance of computer systems and networks and to coordinate computer network access and use.,GreenElephant,05/04/2025,4,2,2,3,2,2
+8953,Statisticians,"Report results of statistical analyses, including information in the form of graphs, charts, and tables.",GreenElephant,05/04/2025,4,2,2,3,2,2
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",YellowZebra,05/04/2025,4,1,1,2,2,2
+14750,Web Administrators,"Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications.",YellowZebra,05/04/2025,5,1,1,2,1,1
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,YellowZebra,05/04/2025,2,1,3,3,3,4
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",YellowZebra,05/04/2025,5,1,1,2,1,1
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",YellowZebra,05/04/2025,3,1,2,3,3,3
+3478,Computer Systems Analysts,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",YellowZebra,05/04/2025,5,1,1,2,2,1
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",YellowZebra,05/04/2025,3,1,1,3,4,3
+19010,Computer Network Support Specialists,Provide telephone support related to networking or connectivity issues.,YellowZebra,05/04/2025,3,1,1,2,5,3
+19004,Computer Network Support Specialists,Back up network data.,YellowZebra,05/04/2025,5,1,1,1,1,1
+3480,Computer Systems Analysts,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",YellowZebra,05/04/2025,5,1,1,2,1,1
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",YellowZebra,05/04/2025,5,1,1,1,1,1
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",YellowZebra,05/04/2025,5,1,1,1,1,1
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",YellowZebra,05/04/2025,5,1,1,2,1,1
+3474,Computer Systems Analysts,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",YellowZebra,05/04/2025,3,1,3,3,3,3
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",YellowZebra,05/04/2025,3,1,1,2,3,2
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,YellowZebra,05/04/2025,2,1,4,4,4,4
+14734,Web Administrators,"Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.",YellowZebra,05/04/2025,4,1,1,3,2,2
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,YellowZebra,05/04/2025,5,1,1,1,1,1
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",YellowZebra,05/04/2025,3,1,4,4,4,3
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",YellowZebra,05/04/2025,3,1,2,4,1,3
+1287,Computer User Support Specialists,"Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.",YellowZebra,05/04/2025,5,1,1,1,1,1
+1285,Computer User Support Specialists,Oversee the daily performance of computer systems.,YellowZebra,05/04/2025,5,1,1,2,1,1
+14624,Computer and Information Research Scientists,Assign or schedule tasks to meet work priorities and goals.,YellowZebra,05/04/2025,3,1,3,3,3,3
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",YellowZebra,05/04/2025,4,1,1,3,2,2
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,YellowZebra,05/04/2025,4,1,2,2,2,2
+14733,Web Administrators,"Review or update Web page content or links in a timely manner, using appropriate tools.",YellowZebra,05/04/2025,5,1,1,2,1,1
+1288,Computer User Support Specialists,"Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",YellowZebra,05/04/2025,4,1,2,3,2,2
+18991,Computer Network Support Specialists,Configure security settings or access permissions for groups or individuals.,YellowZebra,05/04/2025,5,1,1,2,2,1
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,YellowZebra,05/04/2025,3,1,2,3,1,3
+14707,Web Developers,Write supporting code for Web applications or Web sites.,YellowZebra,05/04/2025,5,1,1,2,1,1
+19003,Computer Network Support Specialists,Analyze and report computer network security breaches or attempted breaches.,YellowZebra,05/04/2025,4,1,1,3,1,2
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,YellowZebra,05/04/2025,4,1,1,2,1,2
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,YellowZebra,05/04/2025,5,1,1,2,1,1
+14740,Web Administrators,"Implement updates, upgrades, and patches in a timely manner to limit loss of service.",YellowZebra,05/04/2025,5,1,1,2,1,1
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,YellowZebra,05/04/2025,2,1,4,4,4,5
+18989,Computer Network Support Specialists,"Analyze network data to determine network usage, disk space availability, or server function.",YellowZebra,05/04/2025,5,1,1,2,1,1
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,YellowZebra,05/04/2025,5,1,1,2,1,1
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",YellowZebra,05/04/2025,2,1,4,4,4,5
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",YellowZebra,05/04/2025,4,1,1,2,2,2
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,YellowZebra,05/04/2025,4,1,2,3,3,2
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",YellowZebra,05/04/2025,4,1,2,3,2,2
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",YellowZebra,05/04/2025,2,1,4,4,4,5
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,YellowZebra,05/04/2025,5,1,1,2,2,1
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",YellowZebra,05/04/2025,4,1,2,3,3,2
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,YellowZebra,05/04/2025,4,1,2,3,2,2
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",YellowZebra,05/04/2025,4,1,1,3,1,2
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",YellowZebra,05/04/2025,4,1,1,2,1,2
+19011,Computer Network Support Specialists,Research hardware or software products to meet technical networking or security needs.,YellowZebra,05/04/2025,4,1,2,3,3,2
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,YellowZebra,05/04/2025,3,1,3,3,3,2
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",YellowZebra,05/04/2025,3,1,3,3,2,3
+1283,Computer User Support Specialists,Enter commands and observe system functioning to verify correct operations and detect errors.,YellowZebra,05/04/2025,5,1,1,1,1,1
+18103,Health Informatics Specialists,Provide consultation to nurses regarding hardware or software configuration.,YellowZebra,05/04/2025,4,1,1,2,4,2
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",YellowZebra,05/04/2025,5,1,1,1,1,1
+5322,Information Security Analysts,"Document computer security and emergency measures policies, procedures, and tests.",YellowZebra,05/04/2025,4,1,2,3,3,2
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",YellowZebra,05/04/2025,5,1,1,2,2,1
+14731,Web Administrators,Back up or modify applications and related data to provide for disaster recovery.,YellowZebra,05/04/2025,5,1,1,2,1,1
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",YellowZebra,05/04/2025,5,1,1,2,3,1
+18088,Health Informatics Specialists,"Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.",YellowZebra,05/04/2025,3,1,3,4,4,4
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,YellowZebra,05/04/2025,5,1,1,2,2,1
+18993,Computer Network Support Specialists,Document network support activities.,YellowZebra,05/04/2025,5,1,1,1,1,1
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",YellowZebra,05/04/2025,5,1,1,2,1,1
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",YellowZebra,05/04/2025,2,1,4,4,4,5
+14717,Web Developers,Establish appropriate server directory trees.,YellowZebra,05/04/2025,5,1,1,2,2,1
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,YellowZebra,05/04/2025,3,1,2,2,4,3
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",YellowZebra,05/04/2025,3,1,1,2,5,2
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",YellowZebra,05/04/2025,3,1,1,3,1,3
+18092,Health Informatics Specialists,Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems.,YellowZebra,05/04/2025,3,1,1,3,4,3
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,YellowZebra,05/04/2025,5,1,1,2,1,1
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,YellowZebra,05/04/2025,3,1,2,4,4,4
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",YellowZebra,05/04/2025,4,1,2,3,2,2
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,YellowZebra,05/04/2025,2,2,2,3,4,5
+14744,Web Administrators,"Gather, analyze, or document user feedback to locate or resolve sources of problems.",YellowZebra,05/04/2025,3,2,2,3,4,4
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,YellowZebra,05/04/2025,2,1,2,3,4,5
+18100,Health Informatics Specialists,"Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research.",YellowZebra,05/04/2025,3,2,2,4,4,3
+18094,Health Informatics Specialists,"Analyze and interpret patient, nursing, or information systems data to improve nursing services.",YellowZebra,05/04/2025,3,1,2,4,4,3
+14758,Web Administrators,"Correct testing-identified problems, or recommend actions for their resolution.",YellowZebra,05/04/2025,4,1,2,3,2,2
+5314,Information Security Analysts,"Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.",YellowZebra,05/04/2025,2,1,3,3,3,4
+1290,Computer User Support Specialists,"Develop training materials and procedures, or train users in the proper use of hardware or software.",YellowZebra,05/04/2025,2,2,1,3,4,4
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,YellowZebra,05/04/2025,4,1,1,3,2,2
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",YellowZebra,05/04/2025,4,1,2,3,3,2
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,YellowZebra,05/04/2025,2,1,1,4,4,4
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",YellowZebra,05/04/2025,2,1,3,3,4,5
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,YellowZebra,05/04/2025,5,1,1,2,1,1
+14762,Web Administrators,Set up or maintain monitoring tools on Web servers or Web sites.,YellowZebra,05/04/2025,5,1,1,3,1,1
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",YellowZebra,05/04/2025,2,1,4,4,4,4
+14719,Web Developers,Recommend and implement performance improvements.,YellowZebra,05/04/2025,3,1,2,4,4,3
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",YellowZebra,05/04/2025,5,1,1,3,1,1
+18093,Health Informatics Specialists,"Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management.",YellowZebra,05/04/2025,3,2,3,4,4,3
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",YellowZebra,05/04/2025,5,1,1,2,2,1
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,YellowZebra,05/04/2025,2,1,3,3,5,4
+18101,Health Informatics Specialists,"Identify, collect, record, or analyze data relevant to the nursing care of patients.",YellowZebra,05/04/2025,2,2,3,3,4,5
+1292,Computer User Support Specialists,"Prepare evaluations of software or hardware, and recommend improvements or upgrades.",YellowZebra,05/04/2025,4,1,1,2,3,2
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",YellowZebra,05/04/2025,3,1,3,3,2,3
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",YellowZebra,05/04/2025,5,1,1,2,1,2
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,YellowZebra,05/04/2025,2,1,2,4,4,4
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",YellowZebra,05/04/2025,2,1,4,4,4,5
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",YellowZebra,05/04/2025,2,1,4,4,4,5
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",YellowZebra,05/04/2025,3,1,1,3,2,3
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",YellowZebra,05/04/2025,3,1,2,2,4,3
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",YellowZebra,05/04/2025,3,1,1,2,4,3
+18095,Health Informatics Specialists,"Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research.",YellowZebra,05/04/2025,3,1,2,3,4,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",YellowZebra,05/04/2025,3,1,2,3,3,3
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,YellowZebra,05/04/2025,4,1,1,3,2,2
+18090,Health Informatics Specialists,"Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other techniques.",YellowZebra,05/04/2025,3,1,1,3,4,3
+14749,Web Administrators,"Track, compile, and analyze Web site usage data.",YellowZebra,05/04/2025,4,1,1,2,1,2
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,YellowZebra,05/04/2025,4,1,1,3,1,2
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,YellowZebra,05/04/2025,3,1,2,3,3,3
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",YellowZebra,05/04/2025,2,1,4,4,2,5
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",YellowZebra,05/04/2025,5,1,1,2,1,1
+14732,Web Administrators,"Determine sources of Web page or server problems, and take action to correct such problems.",YellowZebra,05/04/2025,4,1,2,3,2,2
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,YellowZebra,05/04/2025,4,1,1,2,1,2
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,GreenElephant,06/04/2025,3,2,3,3,2,4
+14640,Software Quality Assurance Analysts and Testers,"Develop testing programs that address areas such as database impacts, software scenarios, regression testing, negative testing, error or bug retests, or usability.",GreenElephant,06/04/2025,3,3,3,4,2,4
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,GreenElephant,06/04/2025,3,3,4,4,3,4
+14695,Web Developers,Perform or direct Web site updates.,GreenElephant,06/04/2025,3,3,3,4,3,4
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",GreenElephant,06/04/2025,3,3,4,4,3,4
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",GreenElephant,06/04/2025,4,2,3,4,2,3
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",GreenElephant,06/04/2025,3,3,4,4,2,4
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",GreenElephant,06/04/2025,2,3,4,4,4,5
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",GreenElephant,06/04/2025,3,3,3,3,2,4
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,GreenElephant,06/04/2025,3,2,3,3,2,4
+3470,Computer Systems Analysts,Expand or modify system to serve new purposes or improve work flow.,GreenElephant,06/04/2025,3,3,3,4,2,4
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,GreenElephant,06/04/2025,4,2,3,3,2,2
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,GreenElephant,06/04/2025,3,3,3,3,2,4
+14625,Computer and Information Research Scientists,Evaluate project plans and proposals to assess feasibility issues.,GreenElephant,06/04/2025,3,2,3,3,2,4
+14694,Web Developers,"Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",GreenElephant,06/04/2025,3,3,4,4,3,4
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,GreenElephant,06/04/2025,3,3,4,4,3,4
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",GreenElephant,06/04/2025,3,2,3,3,4,4
+3478,Computer Systems Analysts,"Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",GreenElephant,06/04/2025,4,2,3,3,2,3
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",GreenElephant,06/04/2025,3,2,3,3,2,4
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,GreenElephant,06/04/2025,3,2,3,3,2,4
+19010,Computer Network Support Specialists,Provide telephone support related to networking or connectivity issues.,GreenElephant,06/04/2025,4,2,3,3,3,3
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",GreenElephant,06/04/2025,4,2,2,2,2,2
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",GreenElephant,06/04/2025,4,2,3,3,2,2
+3474,Computer Systems Analysts,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",GreenElephant,06/04/2025,3,2,3,3,2,4
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",GreenElephant,06/04/2025,4,2,3,3,3,3
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,GreenElephant,06/04/2025,2,3,4,4,4,5
+14734,Web Administrators,"Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.",GreenElephant,06/04/2025,3,2,3,3,3,4
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",GreenElephant,06/04/2025,3,3,4,4,3,4
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",GreenElephant,06/04/2025,4,2,3,3,1,2
+1287,Computer User Support Specialists,"Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.",GreenElephant,06/04/2025,4,2,2,2,2,2
+14624,Computer and Information Research Scientists,Assign or schedule tasks to meet work priorities and goals.,GreenElephant,06/04/2025,3,2,3,3,2,4
+1273,Computer Programmers,"Write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",GreenElephant,07/04/2025,3,2,3,3,2,4
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,GreenElephant,07/04/2025,3,2,3,3,2,4
+1288,Computer User Support Specialists,"Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",GreenElephant,07/04/2025,3,3,4,4,3,4
+18991,Computer Network Support Specialists,Configure security settings or access permissions for groups or individuals.,GreenElephant,07/04/2025,4,2,2,2,2,2
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,GreenElephant,07/04/2025,4,2,3,3,2,3
+14707,Web Developers,Write supporting code for Web applications or Web sites.,GreenElephant,07/04/2025,4,2,3,3,2,3
+19003,Computer Network Support Specialists,Analyze and report computer network security breaches or attempted breaches.,GreenElephant,07/04/2025,3,2,3,3,2,4
+1277,Computer Programmers,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,GreenElephant,07/04/2025,3,2,3,3,2,4
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,GreenElephant,07/04/2025,4,2,2,2,2,2
+14740,Web Administrators,"Implement updates, upgrades, and patches in a timely manner to limit loss of service.",GreenElephant,07/04/2025,4,2,3,3,2,3
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,GreenElephant,07/04/2025,3,2,3,3,2,4
+7368,Mathematicians,Develop computational methods for solving problems that occur in areas of science and engineering or that come from applications in business or industry.,GreenElephant,07/04/2025,2,2,5,5,4,5
+18989,Computer Network Support Specialists,"Analyze network data to determine network usage, disk space availability, or server function.",GreenElephant,07/04/2025,4,2,2,2,2,2
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",GreenElephant,07/04/2025,2,2,4,4,3,5
+14636,Computer and Information Research Scientists,"Approve, prepare, monitor, and adjust operational budgets.",GreenElephant,07/04/2025,3,2,3,3,3,4
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,250_b,22/04/2025,4,2,2,2,3,2
+18092,Health Informatics Specialists,Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems.,250_b,22/04/2025,3,2,3,3,4,3
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",250_b,22/04/2025,3,1,2,3,2,3
+3465,Computer Systems Analysts,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",250_b,22/04/2025,3,2,2,2,3,3
+18093,Health Informatics Specialists,"Develop, implement, or evaluate health information technology applications, tools, processes, or structures to assist nurses with data management.",250_b,22/04/2025,3,2,2,1,3,2
+18090,Health Informatics Specialists,"Translate nursing practice information between nurses and systems engineers, analysts, or designers, using object-oriented models or other techniques.",250_b,22/04/2025,3,2,2,1,2,3
+18103,Health Informatics Specialists,Provide consultation to nurses regarding hardware or software configuration.,250_b,22/04/2025,4,2,2,1,2,2
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,250_b,22/04/2025,3,1,2,2,2,3
+18094,Health Informatics Specialists,"Analyze and interpret patient, nursing, or information systems data to improve nursing services.",250_b,22/04/2025,3,2,2,1,2,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",250_b,22/04/2025,3,2,2,1,2,3
+18088,Health Informatics Specialists,"Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.",250_b,22/04/2025,3,2,2,1,2,3
+16200,Video Game Designers,Write or supervise the writing of game text and dialogue.,350_a,28/04/2025,3,4,1,5,1,4
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,350_a,28/04/2025,5,1,2,5,2,3
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,300_b,29/04/2025,1,4,5,5,3,4
+5316,Information Security Analysts,Monitor current reports of computer viruses to determine when to update virus protection systems.,300_b,29/04/2025,3,2,2,3,2,2
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,300_b,29/04/2025,4,3,3,3,4,2
+1299,Database Administrators,Modify existing databases and database management systems or direct programmers and analysts to make changes.,300_b,29/04/2025,4,2,2,2,2,2
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",300_b,29/04/2025,4,2,1,3,3,2
+14623,Computer and Information Research Scientists,Analyze problems to develop solutions involving computer hardware and software.,50,29/04/2025,2,2,2,2,1,3
+3470,Computer Systems Analysts,Expand or modify system to serve new purposes or improve work flow.,50,29/04/2025,1,2,1,2,1,3
+14714,Web Developers,Develop or implement procedures for ongoing Web site revision.,350_a,29/04/2025,4,5,1,5,2,2
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,350_a,29/04/2025,3,1,1,5,2,2
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,350_a,29/04/2025,4,1,2,5,2,3
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",350_a,29/04/2025,4,1,2,4,2,2
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,350_a,29/04/2025,4,4,2,4,2,2
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,350_a,29/04/2025,2,2,2,4,4,4
+14744,Web Administrators,"Gather, analyze, or document user feedback to locate or resolve sources of problems.",350_a,29/04/2025,2,1,3,3,2,4
+14717,Web Developers,Establish appropriate server directory trees.,350_a,29/04/2025,4,4,2,5,2,2
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",350_a,29/04/2025,3,1,2,5,1,4
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",350_a,29/04/2025,1,1,2,5,2,5
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",350_a,29/04/2025,3,1,2,5,2,4
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,350_a,29/04/2025,3,1,2,5,2,3
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",350_a,29/04/2025,2,4,2,4,1,4
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",350_a,29/04/2025,2,2,2,4,1,3
+14708,Web Developers,Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.,350_a,29/04/2025,2,1,2,5,3,4
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",350_a,29/04/2025,3,1,2,4,1,3
+7372,Mathematicians,"Assemble sets of assumptions, and explore the consequences of each set.",350_a,29/04/2025,2,1,2,5,1,5
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",350_a,29/04/2025,2,4,2,5,2,3
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,350_a,29/04/2025,3,4,1,3,1,4
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,350_a,29/04/2025,2,1,2,2,5,4
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",350_a,29/04/2025,3,1,2,5,4,3
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",350_a,29/04/2025,2,1,3,5,3,4
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",350_a,29/04/2025,2,2,3,2,5,4
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,350_a,29/04/2025,3,1,4,4,2,4
+18092,Health Informatics Specialists,Use informatics science to design or implement health information technology applications for resolution of clinical or health care administrative problems.,250_a,30/04/2025,2,1,5,5,3,4
+3465,Computer Systems Analysts,"Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",250_a,30/04/2025,3,1,3,5,3,3
+18088,Health Informatics Specialists,"Design, develop, select, test, implement, and evaluate new or modified informatics solutions, data structures, and decision-support mechanisms to support patients, health care professionals, and their information management and human-computer and human-technology interactions within health care contexts.",250_a,30/04/2025,2,1,4,5,4,5
+20950,Computer Systems Analysts,Troubleshoot program and system malfunctions to restore normal functioning.,250_a,30/04/2025,3,1,3,5,2,3
+3482,Computer Systems Analysts,"Use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",250_a,30/04/2025,2,1,3,4,4,3
+18101,Health Informatics Specialists,"Identify, collect, record, or analyze data relevant to the nursing care of patients.",250_a,30/04/2025,3,1,4,5,4,3
+3466,Computer Systems Analysts,"Use object-oriented programming languages, as well as client and server applications development processes and multimedia and Internet technology.",250_a,30/04/2025,4,1,3,5,2,2
+3484,Computer Systems Analysts,Specify inputs accessed by the system and plan the distribution and use of the results.,250_a,30/04/2025,3,1,3,4,4,3
+18095,Health Informatics Specialists,"Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research.",300_a,01/05/2025,2,1,4,5,4,4
+1274,Computer Programmers,Write or contribute to instructions or manuals to guide end users.,300_a,01/05/2025,3,1,2,3,3,3
+1325,Network and Computer Systems Administrators,Monitor network performance to determine whether adjustments are needed and where changes will be needed in the future.,100,04/05/2025,4,1,3,3,1,2
+1314,Database Administrators,"Review workflow charts developed by programmer analyst to understand tasks computer will perform, such as updating records.",100,04/05/2025,5,1,1,1,1,1
+19010,Computer Network Support Specialists,Provide telephone support related to networking or connectivity issues.,100,04/05/2025,4,1,1,2,3,1
+7373,Mathematicians,"Address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",150,06/05/2025,4,1,5,5,3,2
+19011,Computer Network Support Specialists,Research hardware or software products to meet technical networking or security needs.,300_a,01/05/2025,3,1,3,4,3,3
+1317,Network and Computer Systems Administrators,Perform data backups and disaster recovery operations.,300_a,01/05/2025,2,2,4,4,2,4
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",300_a,01/05/2025,2,1,4,5,4,4
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",300_a,01/05/2025,1,1,5,5,3,5
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",300_a,01/05/2025,3,1,3,4,3,3
+1290,Computer User Support Specialists,"Develop training materials and procedures, or train users in the proper use of hardware or software.",300_a,01/05/2025,3,1,3,4,3,3
+5314,Information Security Analysts,"Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.",300_a,01/05/2025,2,1,4,5,3,4
+1292,Computer User Support Specialists,"Prepare evaluations of software or hardware, and recommend improvements or upgrades.",300_a,01/05/2025,2,1,3,3,4,4
+1319,Network and Computer Systems Administrators,"Plan, coordinate, and implement network security measures to protect data, software, and hardware.",300_a,01/05/2025,2,1,5,5,4,4
+18992,Computer Network Support Specialists,Configure wide area network (WAN) or local area network (LAN) routers or related equipment.,300_a,01/05/2025,2,2,4,5,2,4
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",300_a,01/05/2025,3,1,3,4,3,3
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",300_a,01/05/2025,2,1,5,5,4,4
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",300_a,01/05/2025,3,1,4,5,3,3
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",300_a,01/05/2025,3,1,3,4,3,3
+1283,Computer User Support Specialists,Enter commands and observe system functioning to verify correct operations and detect errors.,300_a,01/05/2025,4,2,3,3,2,2
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",300_a,01/05/2025,3,1,4,5,3,3
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,300_a,01/05/2025,2,1,3,4,4,4
+14641,Software Quality Assurance Analysts and Testers,"Document software defects, using a bug tracking system, and report defects to software developers.",300_a,01/05/2025,3,1,3,4,3,3
+19002,Computer Network Support Specialists,Troubleshoot network or connectivity problems for users or user groups.,300_a,01/05/2025,2,2,4,5,4,4
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",300_a,01/05/2025,2,1,4,5,5,4
+5316,Information Security Analysts,Monitor current reports of computer viruses to determine when to update virus protection systems.,300_a,01/05/2025,3,1,4,5,2,3
+18993,Computer Network Support Specialists,Document network support activities.,300_a,01/05/2025,4,1,2,3,2,2
+5319,Information Security Analysts,Monitor use of data files and regulate access to safeguard information in computer files.,300_a,01/05/2025,3,1,5,5,3,4
+14636,Computer and Information Research Scientists,"Approve, prepare, monitor, and adjust operational budgets.",300_a,01/05/2025,2,1,4,4,3,4
+18100,Health Informatics Specialists,"Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research.",300_a,01/05/2025,1,1,5,5,5,5
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",PurpleBear,03/05/2025,4,1,2,3,2,2
+1276,Computer Programmers,"Prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",100,03/05/2025,5,1,1,1,1,1
+14695,Web Developers,Perform or direct Web site updates.,100,03/05/2025,4,1,2,3,3,2
+1275,Computer Programmers,"Investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",100,03/05/2025,5,1,3,3,1,1
+1287,Computer User Support Specialists,"Maintain records of daily data communication transactions, problems and remedial actions taken, or installation activities.",100,03/05/2025,5,1,3,1,3,1
+14625,Computer and Information Research Scientists,Evaluate project plans and proposals to assess feasibility issues.,100,03/05/2025,5,1,3,2,4,3
+14733,Web Administrators,"Review or update Web page content or links in a timely manner, using appropriate tools.",100,03/05/2025,4,1,1,2,1,2
+16194,Video Game Designers,"Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",100,03/05/2025,4,1,3,3,4,3
+14644,Software Quality Assurance Analysts and Testers,Create or maintain databases of known test defects.,100,03/05/2025,5,1,1,3,2,2
+1285,Computer User Support Specialists,Oversee the daily performance of computer systems.,100,03/05/2025,5,1,1,1,1,1
+1269,Computer Programmers,"Compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",100,03/05/2025,5,1,1,2,1,1
+1288,Computer User Support Specialists,"Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",100,03/05/2025,4,1,3,3,3,3
+19003,Computer Network Support Specialists,Analyze and report computer network security breaches or attempted breaches.,100,04/05/2025,3,1,4,4,1,3
+1318,Network and Computer Systems Administrators,"Maintain and administer computer networks and related computing environments, including computer hardware, systems software, applications software, and all configurations.",100,04/05/2025,2,1,2,4,4,4
+14750,Web Administrators,"Test issues such as system integration, performance, and system security on a regular schedule or after any major program modifications.",100,04/05/2025,4,1,3,2,3,2
+18989,Computer Network Support Specialists,"Analyze network data to determine network usage, disk space availability, or server function.",100,04/05/2025,5,1,1,1,1,1
+14723,Web Developers,Monitor security system performance logs to identify problems and notify security specialists when problems occur.,100,04/05/2025,3,1,2,3,5,3
+16201,Video Game Designers,"Solicit, obtain, and integrate feedback from design and technical staff into original game design.",100,04/05/2025,3,1,2,2,4,3
+1321,Network and Computer Systems Administrators,"Perform routine network startup and shutdown procedures, and maintain control records.",100,04/05/2025,5,1,1,1,1,1
+14722,Web Developers,"Provide clear, detailed descriptions of Web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",100,04/05/2025,5,1,1,1,1,1
+16199,Video Game Designers,Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.,100,04/05/2025,3,1,3,3,4,3
+14648,Software Quality Assurance Analysts and Testers,Document test procedures to ensure replicability and compliance with standards.,100,05/05/2025,5,1,1,1,1,1
+1329,Network and Computer Systems Administrators,Analyze equipment performance records to determine the need for repair or replacement.,100,05/05/2025,4,3,1,3,1,3
+14734,Web Administrators,"Monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.",100,05/05/2025,4,1,3,3,1,2
+18991,Computer Network Support Specialists,Configure security settings or access permissions for groups or individuals.,100,05/05/2025,5,1,1,1,1,1
+1267,Computer Programmers,Correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,100,05/05/2025,3,1,1,3,1,3
+14639,Software Quality Assurance Analysts and Testers,Test system modifications to prepare for implementation.,100,05/05/2025,4,1,2,2,2,2
+14707,Web Developers,Write supporting code for Web applications or Web sites.,100,05/05/2025,5,1,1,2,1,2
+14740,Web Administrators,"Implement updates, upgrades, and patches in a timely manner to limit loss of service.",100,05/05/2025,5,1,2,2,1,1
+14649,Software Quality Assurance Analysts and Testers,"Develop or specify standards, methods, or procedures to determine product quality or release readiness.",100,05/05/2025,4,1,2,2,2,3
+14698,Web Developers,Back up files from Web sites to local directories for instant recovery in case of problems.,100,05/05/2025,5,1,1,1,1,1
+16274,Clinical Data Managers,"Track the flow of work forms, including in-house data flow or electronic forms transfer.",150,06/05/2025,3,4,5,4,3,4
+16252,Biostatisticians,Prepare tables and graphs to present clinical data or results.,150,06/05/2025,2,2,3,5,3,2
+16280,Clinical Data Managers,"Generate data queries, based on validation checks or errors and omissions identified during data entry, to resolve identified problems.",150,06/05/2025,3,2,1,2,4,3
+14667,Computer Systems Engineers/Architects,"Provide advice on project costs, design concepts, or design changes.",150,06/05/2025,3,2,4,5,5,4
+16146,Business Intelligence Analysts,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",150,06/05/2025,4,2,3,3,2,3
+8961,Statisticians,"Design research projects that apply valid scientific techniques, and use information obtained from baselines or historical data to structure uncompromised and efficient analyses.",150,06/05/2025,3,2,3,4,2,3
+16270,Clinical Data Managers,Develop technical specifications for data management programming and communicate needs to information technology staff.,150,06/05/2025,3,2,2,4,5,3
+14645,Software Quality Assurance Analysts and Testers,Plan test schedules or strategies in accordance with project scope or delivery dates.,350_b,07/05/2025,3,1,2,3,5,3
+14732,Web Administrators,"Determine sources of Web page or server problems, and take action to correct such problems.",350_b,07/05/2025,4,1,2,4,2,2
+14717,Web Developers,Establish appropriate server directory trees.,350_b,07/05/2025,4,1,2,4,1,2
+14658,Software Quality Assurance Analysts and Testers,"Identify program deviance from standards, and suggest modifications to ensure compliance.",350_b,07/05/2025,3,1,3,4,3,4
+14650,Software Quality Assurance Analysts and Testers,Update automated test scripts to ensure currency.,350_b,07/05/2025,4,1,1,2,2,2
+14700,Web Developers,"Evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",350_b,07/05/2025,4,1,1,4,1,1
+16202,Video Game Designers,Provide feedback to production staff regarding technical game qualities or adherence to original design.,350_b,07/05/2025,2,1,2,5,4,5
+16209,Video Game Designers,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",350_b,07/05/2025,1,1,1,5,2,5
+14686,Computer Systems Engineers/Architects,"Research, test, or verify proper functioning of software patches and fixes.",350_b,07/05/2025,4,1,1,5,1,1
+16152,Information Technology Project Managers,"Submit project deliverables, ensuring adherence to quality standards.",350_b,07/05/2025,2,2,3,3,4,4
+16212,Video Game Designers,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",350_b,07/05/2025,1,1,3,4,5,5
+14744,Web Administrators,"Gather, analyze, or document user feedback to locate or resolve sources of problems.",350_b,07/05/2025,3,2,3,4,3,3
+14687,Computer Systems Engineers/Architects,"Communicate project information through presentations, technical reports, or white papers.",350_b,07/05/2025,4,1,1,3,2,2
+14655,Software Quality Assurance Analysts and Testers,"Conduct software compatibility tests with programs, hardware, operating systems, or network environments.",350_b,07/05/2025,5,1,1,4,2,1
+14758,Web Administrators,"Correct testing-identified problems, or recommend actions for their resolution.",350_b,07/05/2025,4,1,2,4,2,2
+8957,Statisticians,"Prepare data for processing by organizing information, checking for inaccuracies, and adjusting and weighting the raw data.",350_b,07/05/2025,4,1,2,5,1,2
+14713,Web Developers,"Respond to user email inquiries, or set up automated systems to send responses.",350_b,07/05/2025,5,1,1,2,1,1
+14749,Web Administrators,"Track, compile, and analyze Web site usage data.",350_b,07/05/2025,5,1,1,2,1,1
+14647,Software Quality Assurance Analysts and Testers,"Review software documentation to ensure technical accuracy, compliance, or completeness, or to mitigate risks.",350_b,07/05/2025,5,1,2,4,1,1
+16167,Information Technology Project Managers,"Assign duties, responsibilities, and spans of authority to project personnel.",350_b,07/05/2025,2,1,3,2,3,4
+14719,Web Developers,Recommend and implement performance improvements.,350_b,07/05/2025,5,1,2,5,1,2
+16157,Information Technology Project Managers,Monitor or track project milestones and deliverables.,350_b,07/05/2025,3,1,3,2,5,4
+14671,Computer Systems Engineers/Architects,"Evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",350_b,07/05/2025,4,1,2,3,2,2
+16203,Video Game Designers,Prepare two-dimensional concept layouts or three-dimensional mock-ups.,350_b,07/05/2025,5,1,1,5,2,2
+16170,Information Technology Project Managers,"Develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",350_b,07/05/2025,2,1,3,3,4,4
+7370,Mathematicians,Perform computations and apply methods of numerical analysis to data.,350_b,07/05/2025,5,1,1,5,1,1
+14670,Computer Systems Engineers/Architects,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,350_b,07/05/2025,3,1,2,3,4,3
+16211,Video Game Designers,Create gameplay prototypes for presentation to creative and technical staff and management.,350_b,07/05/2025,2,1,1,5,3,5
+16217,Video Game Designers,"Create core game features, including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",350_b,07/05/2025,2,1,1,4,1,5
+14762,Web Administrators,Set up or maintain monitoring tools on Web servers or Web sites.,350_b,07/05/2025,4,2,2,5,1,2
+16198,Video Game Designers,Provide feedback to designers and other colleagues regarding game design features.,350_b,07/05/2025,3,1,1,3,3,4
+14643,Software Quality Assurance Analysts and Testers,Monitor bug resolution efforts and track successes.,350_b,07/05/2025,4,1,2,3,3,2
+16214,Video Game Designers,Conduct regular design reviews throughout the game development process.,350_b,07/05/2025,3,1,1,2,2,4
+16168,Information Technology Project Managers,"Prepare project status reports by collecting, analyzing, and summarizing information and trends.",350_b,07/05/2025,5,1,1,3,2,1
+14731,Web Administrators,Back up or modify applications and related data to provide for disaster recovery.,350_b,07/05/2025,4,1,2,5,1,2
+14672,Computer Systems Engineers/Architects,Provide technical guidance or support for the development or troubleshooting of systems.,350_b,07/05/2025,4,1,2,4,3,3
+14710,Web Developers,"Perform Web site tests according to planned schedules, or after any Web site or product revision.",350_b,07/05/2025,5,1,1,4,2,2
+16159,Information Technology Project Managers,"Initiate, review, or approve modifications to project plans.",150,08/05/2025,4,1,3,1,3,4
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,150,08/05/2025,4,3,5,5,3,2
+16140,Business Intelligence Analysts,Manage timely flow of business intelligence information to users.,150,08/05/2025,3,2,4,3,3,2
+16283,Clinical Data Managers,Analyze clinical data using appropriate statistical tools.,150,08/05/2025,3,3,5,4,4,3
+16150,Business Intelligence Analysts,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",150,08/05/2025,3,3,2,4,3,3
+16171,Information Technology Project Managers,Develop and manage work breakdown structure (WBS) of information technology projects.,150,08/05/2025,2,3,5,4,5,4
+16249,Biostatisticians,Write program code to analyze data with statistical analysis software.,150,08/05/2025,4,1,2,5,1,4
+8956,Statisticians,Analyze and interpret statistical data to identify significant differences in relationships among sources of information.,150,08/05/2025,5,2,1,4,2,5
+16143,Business Intelligence Analysts,"Disseminate information regarding tools, reports, or metadata enhancements.",150,08/05/2025,2,4,2,4,5,5
+8954,Statisticians,"Process large amounts of data for statistical modeling and graphic analysis, using computers.",150,08/05/2025,4,1,2,5,1,3
+16277,Clinical Data Managers,"Prepare data analysis listings and activity, performance, or progress reports.",150,08/05/2025,4,2,1,3,1,5
+14673,Computer Systems Engineers/Architects,"Identify system data, hardware, or software components required to meet user needs.",150,08/05/2025,3,3,3,4,3,3
+8955,Statisticians,"Identify relationships and trends in data, as well as any factors that could affect the results of research.",150,08/05/2025,4,1,2,3,3,2
+14675,Computer Systems Engineers/Architects,Monitor system operation to detect potential problems.,150,08/05/2025,3,1,4,5,1,3
+14683,Computer Systems Engineers/Architects,Design and conduct hardware or software tests.,150,08/05/2025,2,2,2,5,2,4
+16136,Business Intelligence Analysts,"Identify or monitor current and potential customers, using business intelligence tools.",150,08/05/2025,4,1,2,3,1,2
+16284,Clinical Data Managers,"Process clinical data, including receipt, entry, verification, or filing of information.",150,09/05/2025,3,1,1,3,1,4
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",150,09/05/2025,5,1,1,3,1,2
+16279,Clinical Data Managers,Monitor work productivity or quality to ensure compliance with standard operating procedures.,150,09/05/2025,4,2,2,2,2,2
+1292,Computer User Support Specialists,"Prepare evaluations of software or hardware, and recommend improvements or upgrades.",300_b,10/05/2025,3,1,2,3,2,2
+1290,Computer User Support Specialists,"Develop training materials and procedures, or train users in the proper use of hardware or software.",300_b,10/05/2025,2,4,3,3,4,5
+14652,Software Quality Assurance Analysts and Testers,"Install, maintain, or use software testing programs.",300_b,10/05/2025,3,1,4,4,2,3
+1272,Computer Programmers,"Perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",300_b,10/05/2025,3,2,3,3,3,3
+1313,Database Administrators,"Write and code logical and physical database descriptions and specify identifiers of database to management system, or direct others in coding descriptions.",300_b,11/05/2025,4,1,2,2,1,2
+1279,Computer Programmers,"Assign, coordinate, and review work and activities of programming personnel.",300_b,11/05/2025,2,1,2,2,3,3
+14626,Computer and Information Research Scientists,"Apply theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses.",300_b,11/05/2025,2,2,1,3,3,5
+18100,Health Informatics Specialists,"Develop strategies, policies or procedures for introducing, evaluating, or modifying information technology applied to nursing practice, administration, education, or research.",300_b,11/05/2025,2,3,2,3,4,4
+14638,Software Quality Assurance Analysts and Testers,"Design test plans, scenarios, scripts, or procedures.",300_b,11/05/2025,3,1,3,3,2,3
+19011,Computer Network Support Specialists,Research hardware or software products to meet technical networking or security needs.,300_b,11/05/2025,3,2,2,3,3,3
+15206,Network and Computer Systems Administrators,"Configure, monitor, and maintain email applications or virus protection software.",300_b,11/05/2025,5,1,1,1,1,1
+1323,Network and Computer Systems Administrators,"Recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",300_b,11/05/2025,3,1,2,2,3,3
+1283,Computer User Support Specialists,Enter commands and observe system functioning to verify correct operations and detect errors.,300_b,11/05/2025,5,1,1,1,1,1
+1300,Database Administrators,"Test programs or databases, correct errors, and make necessary modifications.",300_b,11/05/2025,5,1,1,1,1,1
+5322,Information Security Analysts,"Document computer security and emergency measures policies, procedures, and tests.",300_b,11/05/2025,3,1,3,3,2,3
+5319,Information Security Analysts,Monitor use of data files and regulate access to safeguard information in computer files.,300_b,11/05/2025,3,1,2,3,2,4
+1301,Database Administrators,"Plan, coordinate, and implement security measures to safeguard information in computer files against accidental or unauthorized damage, modification or disclosure.",300_b,11/05/2025,2,1,3,4,2,4
+18095,Health Informatics Specialists,"Analyze computer and information technologies to determine applicability to nursing practice, education, administration, and research.",300_b,11/05/2025,3,1,2,4,2,3
+18992,Computer Network Support Specialists,Configure wide area network (WAN) or local area network (LAN) routers or related equipment.,300_b,11/05/2025,2,2,3,4,1,4
+14653,Software Quality Assurance Analysts and Testers,Provide feedback and recommendations to developers on software usability and functionality.,300_b,11/05/2025,3,1,4,4,3,3
+19002,Computer Network Support Specialists,Troubleshoot network or connectivity problems for users or user groups.,300_b,11/05/2025,3,2,4,4,2,4
+14642,Software Quality Assurance Analysts and Testers,"Identify, analyze, and document problems with program function, output, online screen, or content.",300_b,11/05/2025,2,1,3,3,3,3
+5314,Information Security Analysts,"Develop plans to safeguard computer files against accidental or unauthorized modification, destruction, or disclosure and to meet emergency data processing needs.",300_b,11/05/2025,3,1,4,4,1,4
+14681,Computer Systems Engineers/Architects,"Define and analyze objectives, scope, issues, or organizational impact of information systems.",yijia,15/05/2025,2,1,3,4,3,3
+16265,Biostatisticians,"Analyze clinical or survey data, using statistical approaches such as longitudinal analysis, mixed-effect modeling, logistic regression analyses, and model-building techniques.",yijia,15/05/2025,4,1,1,4,1,2
+14633,Computer and Information Research Scientists,Design computers and the software that runs them.,yijia,15/05/2025,3,1,2,5,1,3
+16135,Business Intelligence Analysts,"Maintain library of model documents, templates, or other reusable knowledge assets.",yijia,15/05/2025,4,1,1,2,1,2
+3480,Computer Systems Analysts,"Read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",yijia,15/05/2025,4,1,1,3,1,2
+16262,Biostatisticians,Review clinical or other medical research protocols and recommend appropriate statistical analyses.,yijia,15/05/2025,4,1,1,3,1,2
